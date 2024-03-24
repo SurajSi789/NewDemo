@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-15T09:52:07 IST" name="Default suite" finished-at="2024-03-15T09:52:24 IST" duration-ms="17134">
+    <groups>
+    </groups>
+    <test started-at="2024-03-15T09:52:07 IST" name="Default test" finished-at="2024-03-15T09:52:24 IST" duration-ms="17134">
+      <class name="appium_runner.Runner">
+        <test-method is-config="true" signature="setTestDriver()[pri:0, instance:appium_runner.Runner@f5acb9d]" started-at="2024-03-15T09:52:07 IST" name="setTestDriver" finished-at="2024-03-15T09:52:12 IST" duration-ms="5046" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setTestDriver -->
+        <test-method signature="testSettingsApp()[pri:0, instance:appium_runner.Runner@f5acb9d]" started-at="2024-03-15T09:52:12 IST" name="testSettingsApp" finished-at="2024-03-15T09:52:24 IST" duration-ms="11846" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSettingsApp -->
+        <test-method is-config="true" signature="closeServer()[pri:0, instance:appium_runner.Runner@f5acb9d]" started-at="2024-03-15T09:52:24 IST" name="closeServer" finished-at="2024-03-15T09:52:24 IST" duration-ms="187" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeServer -->
+      </class> <!-- appium_runner.Runner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
